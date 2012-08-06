@@ -23,3 +23,6 @@ Compilation:
 2. Uncompress it.
 3. Copy all files from the `patch-for-commons-dbcp-1.4-src` directory to into the uncompressed directory
 4. Run Ant
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
