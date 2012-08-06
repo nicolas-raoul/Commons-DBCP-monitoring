@@ -5,7 +5,7 @@ Monitor what threads are using connections from the DBCP pool, and waiting for c
 
 Usage:
 
-1. Replace your application's `commons-dbcp-1.4.jar` with [commons-dbcp-1.4-monitored.jar](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/commons-dbcp-1.4-monitored.jar) (rename it to pretend it is really the same JAR file)
+1. Replace your application's `commons-dbcp-1.4.jar` with [commons-dbcp-1.4-monitored.jar](https://github.com/nicolas-raoul/Commons-DBCP-monitoring/raw/master/commons-dbcp-1.4-monitored.jar) (rename it to pretend it is really the same JAR file)
 2. Run your application, making sure the output is directed to a log file
 3. When you want, generate a graph:
    1. Run: `./generate-dbcp-graph.sh <your-output-file.log>`
