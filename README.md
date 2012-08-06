@@ -11,8 +11,8 @@ Usage:
    2. Wait while `dbcp-connected-by-thread.csv` and `dbcp-waiting-by-thread.csv` are generated.
    3. Open the CSV files with any spreadsheet program (like LibreOffice) and use conditional formatting to end up with something like this:
 
-![Threads using connections](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/screenshots/threads-using-connections.png)
-![Combined using/waiting graph](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/screenshots/combined-graph.png)
+![Threads using connections](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/master/screenshots/threads-using-connections.png)
+![Combined using/waiting graph](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/master/screenshots/combined-graph.png)
 
 ---
 
