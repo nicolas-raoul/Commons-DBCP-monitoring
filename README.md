@@ -10,7 +10,7 @@ Usage:
 3. When you want, generate a graph:
    1. Run: `./generate-dbcp-graph.sh <your-output-file.log>`
    2. Wait while `dbcp-connected-by-thread.csv` and `dbcp-waiting-by-thread.csv` are generated.
-   3. Open the CSV files with any spreadsheet program (like LibreOffice) and use conditional formatting to end up with something like this:
+   3. Open the CSV files with any spreadsheet program (like LibreOffice) and use conditional formatting to end up with the table below. To create the graph below, create a `SUM` column for each CSV and use your spreadsheet program's graphing feature.
 
 ![Threads using connections](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/master/screenshots/threads-using-connections.png)
 ![Combined using/waiting graph](https://raw.github.com/nicolas-raoul/Commons-DBCP-monitoring/master/screenshots/combined-graph.png)
